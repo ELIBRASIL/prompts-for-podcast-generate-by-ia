@@ -73,7 +73,7 @@ Utilizei os prompts dentro do link do `Notion` fornecido na parte de `Materiais`
       width=80 
       src="https://avatars.githubusercontent.com/u/168098335?s=400&u=9657f52fa186dc601f8d3d11a05bfd956049bd49&v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspEliane Ferraz Brasil<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/ELIBRASIL">
